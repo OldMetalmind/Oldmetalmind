@@ -1,8 +1,3 @@
-### Hey Droid Peeps 👋
-
-https://github.com/OldMetalmind/DroidCon2023
-
-Clone this ☝️
 
 <!--
 **OldMetalmind/Oldmetalmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
